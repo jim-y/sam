@@ -1,0 +1,22 @@
+{
+  "name": "Sam",
+  "version": "0.0.1",
+  "authors": [
+    "Attila Kling <jimmyfly10@gmail.com>"
+  ],
+  "description": "jQuery like client-side library with mpromises",
+  "main": "lib/sam.js",
+  "license": "MIT",
+  "homepage": "https://github.com/jim-y/sam",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.1"
+  }
+}
